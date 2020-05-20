@@ -4,12 +4,12 @@
   "description": "Dialogflow Server",
   "main": "src/index.js",
   "author": {
-    "name": "Kenniston Arraes Bonfim",
+    "name": "Luiz Mituiti",
     "url": "http://www.dynamic-light.com.br"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenniston/dialogflow-server.git"
+    "url": "https://github.com/LMituiti/heroku_dialogflow.git"
   },
   "license": "ISC",
   "scripts": {
